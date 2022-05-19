@@ -47,7 +47,7 @@ switch ($message) {
         $method = 'sendMessage';
 		$send_data = ['text' => 'заказ принят!'];
     break;
-	case 'чеснок':
+	case 'чеснок1':
         $method = 'sendMessage';
 		$send_data = ['text' => 'заказ принят!'];
     break;
